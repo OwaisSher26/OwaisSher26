@@ -7,7 +7,7 @@
 <p align="center">
   Currently immersed in the world of Computer Engineering, I am driven by a passion for discovering and mastering new technologies. My journey is fueled by a deep interest in the transformative potential of WEB 3.0 and its ability to reshape our digital landscape. Always eager to learn and innovate, I strive to stay at the forefront of technological advancements.
 </p>
-<img src="C:\Users\Waqar\Desktop">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fchipp%2Fcollections%2F572323-coding-gifs&psig=AOvVaw1UbGxzvFrwy4bz1CiQnOho&ust=1725536421243000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCLiSnp2aqYgDFQAAAAAdAAAAABAE">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaissher26&label=Profile%20views&color=0e75b6&style=flat" alt="owaissher26" /> </p>
